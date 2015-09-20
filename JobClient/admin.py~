@@ -1,0 +1,6 @@
+from django.contrib import admin
+
+from JobClient.models import JobClient
+
+admin.site.register(JobClient)
+

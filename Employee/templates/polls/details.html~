@@ -1,0 +1,5 @@
+<h1>{{ question_text }}
+<ul>
+{% for choice in question_choice_sat.all() %}
+{% endfor %}
+</ul>

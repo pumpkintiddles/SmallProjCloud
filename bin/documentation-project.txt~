@@ -1,0 +1,22 @@
+NOTIFICATION FLOW
+
+Notification(Plenty of reactionary time/can be cancelled out - code satisfies) ->
+	2nd Notice(Midway/Can be cancelled out - code satisfies) ->
+		Final Notice(Persistent - Code satisfies) ->
+		Upward Notification(Persistent - Code satisfies)
+
+
+CALENDER FLOW
+
+30 min/hr/day/week/year
+	10hr time slots/Start-Finish times/early start/overtime/eve/weekends
+	Automated blockouts for time/Reschedule pushes or readjusts
+	Preset/adjustable time constraints for each employee
+	
+
+DATABASE FLOW
+
+API searches for all types of database searches
+	Standard list of ready searches under categories
+	Alerts when certain limits are reached/breached/not satisfied
+
